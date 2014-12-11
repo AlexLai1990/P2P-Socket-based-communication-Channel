@@ -8,7 +8,8 @@ Each peer can send text message or files(including binary files) to other peer.
 And as a receiver peer, it can handle mulitple connections from others by using asynchronous processing a message Queue structure.
 
 This is a project of course(Object-Oriented Design), it's well designed and extensible.
-All code is written by C++
+All code is written by C++. 
+Reference: http://ecs.syr.edu/faculty/fawcett/handouts/webpages/FawcettHome.htm
 
 Channel Module:
 
@@ -22,19 +23,14 @@ Channel Module:
 		
 		Message Module: This is the transfer media through the channel.
 		
-		XMLWriter Module: Serialize Message Object to string 
-			Provided by Ph.D Fawcett, Syracuse University, CST 2-187. 
+		XMLWriter Module: Serialize Message Object to string  
 			
-		XMLReader Module: Deserialize string to Message Object
-			Provided by Ph.D Fawcett, Syracuse University, CST 2-187. 
+		XMLReader Module: Deserialize string to Message Object 
 			
 		Thread Module: It's wrapper of Win32 threads, providing a simple interface similar to the .Net Thread class. 
-			Provided by Ph.D Fawcett, Syracuse University, CST 2-187.  
-			 
+			  
 		Base64 Module: encode binary data into string and decodes the string back to binary file.
-			Provided by Ph.D Fawcett, Syracuse University, CST 2-187. 
+			 
+		FileManage Module: Get file, path and directory info of system.  
 		 
-		FileManage Module: Get file, path and directory info of system. 
-			Provided by Ph.D Fawcett, Syracuse University, CST 2-187. 
-			http://ecs.syr.edu/faculty/fawcett/handouts/webpages/FawcettHome.htm
 	
