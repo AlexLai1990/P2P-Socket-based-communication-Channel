@@ -1,0 +1,22 @@
+﻿Build started 11/9/2014 4:49:47 PM.
+     1>Project "C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\P2PCommunication\P2PCommunication.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D NO_TEST_COMM /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Comm.cpp
+         Comm.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\Debug\P2PCommunication.lib" /NOLOGO Debug\BlockingQueue.obj
+         Debug\Chunker.obj
+         Debug\FileManagement.obj
+         Debug\FileSystem.obj
+         Debug\Message.obj
+         Debug\XmlReader.obj
+         Debug\XmlWriter.obj
+         Debug\Sockets.obj
+         Debug\locks.obj
+         Debug\Comm.obj
+         P2PCommunication.vcxproj -> C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\Debug\P2PCommunication.lib
+     1>Done Building Project "C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\P2PCommunication\P2PCommunication.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.98
