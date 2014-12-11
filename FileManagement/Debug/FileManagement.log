@@ -1,0 +1,16 @@
+﻿Build started 4/20/2014 10:43:56 PM.
+     1>Project "C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\FileManagement\FileManagement.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /D TEST_FILEMANAGEMENT /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FileManagement.cpp FileSystem.cpp
+         FileSystem.cpp
+         FileManagement.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\Debug\FileManagement.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\Debug\FileManagement.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\Debug\FileManagement.lib" /MACHINE:X86 Debug\FileManagement.obj
+         Debug\FileSystem.obj
+         FileManagement.vcxproj -> C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\Debug\FileManagement.exe
+     1>Done Building Project "C:\Users\Alex_lai\Courses\CSE687 OOD\All Project codes\OOD\Project3\P2PCommunicationWithClassChannel\P2PCommunication\FileManagement\FileManagement.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.66
